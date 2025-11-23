@@ -29,7 +29,9 @@ Setup Instructions :
 =>cd Interview-Practice-Partner
 
 =>Create and activate a virtual environment:
+
         python -m venv venv
+        
         venv\Scripts\activate
 
 2. Install dependencies :
