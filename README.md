@@ -75,13 +75,13 @@ Design Decisions :
 -----------------------------------------------------------------------------------------------------------------------------
 
 Demo Personas :
-------------------------------------------------------------------------------------------------------------------
-Persona	Expected Behavior   |	Agent Response                  Example                                          
-------------------------------------------------------------------------------------------------------------------
-Confused User	            |    Gives short/vague answers   |	Agent asks for elaboration                        |
-Efficient User	          |    Gives concise answers	     |   Agent proceeds to next question smoothly         | 
-Chatty User	              |    Gives long/off-topic answers|	Agent provides feedback about focus and relevance |
-Edge Case	                |    Empty input or gibberish    | 	Agent asks for valid input                        |
-------------------------------------------------------------------------------------------------------------------
+Persona	Expected Behavior    	      Agent Response                           Example
+Confused User	                Gives short/vague answers	            Agent asks for elaboration
+Efficient User	              Gives concise answers	                Agent proceeds to next question smoothly
+Chatty User	                  Gives long/off-topic answers	        Agent provides feedback about focus and relevance
+Edge Case	                    Empty input or gibberish	            Agent asks for valid input
+-----------------------------------------------------------------------------------------------------------------------------
+
+
 
 
